@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-   <title>{{ page.title }} &larr; {{ page.top }}</title>
+   <title>{{ page.title }}{{ page.top }}</title>
    <meta name="author" content="{{ site.author.name }}" />
 
    <link rel="start" href="{{ HOME_PATH }}" />
@@ -35,9 +35,10 @@
     	<a href="{{ HOME_PATH }}" title="{{ site.title }}">{{ site.title }}</a>
     </h1>
     <ul class="nav">
-      <li><a class="home" href="{{ HOME_PATH }}">介绍</a></li>
+      <li><a class="home" href="{{ HOME_PATH }}">简介</a></li>
       <li><a  href="/archive.html">往期活动</a></li>
-      <li><a  href="/subscribe.html">活动预告</a></li>
+      <li><a  href="/upcoming.html">活动预告</a></li>
+      <li><a  href="/contact.html">联系我们</a></li>
     </ul>
   </div>
 
@@ -45,6 +46,9 @@
   
   <div id="footer">
   	<address>
+      <span class="copyright">
+        &copy;<a href="mailto:berkeley.reading@gmail.com">伯克利读书小组</a>
+      </span>
   		<span class="engine">
   			Powered by <a href="http://github.com/mojombo/jekyll/" title="A static, minimalist CMS">Jekyll</a>
   		</span>
