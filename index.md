@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Hello World!
+title: 介绍
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-王泽南的祝辞在此。
+祝辞。
