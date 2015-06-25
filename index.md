@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 简介
+top: 伯克利读书小组
 tagline: supporting tagline
 ---
 {% include JB/setup %}

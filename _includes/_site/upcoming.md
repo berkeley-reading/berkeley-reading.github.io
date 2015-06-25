@@ -1,12 +1,3 @@
----
-layout: post
-title: "活动预告"
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
-
 #第二次内测活动
 时间：6月27日 早9点30
 
