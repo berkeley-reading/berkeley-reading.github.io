@@ -12,3 +12,13 @@
 
     欢迎大家踊跃参加!
 
+    第一次正式活动
+
+    时间： 7月4日 周六 早9点30
+
+    地点：North Gate Hall (Graduate School of Journalism) 
+
+    主讲人：王泽南
+
+    主讲书目：《理想国》 by Plato
+
