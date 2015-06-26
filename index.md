@@ -14,4 +14,4 @@ tagline: supporting tagline
 
 Wechat QR Code:
 
-![QRcode](/assets/QRcode.jpg)
+<img src="/assets/QRcode.jpg" alt="QR code" width="150x" >
