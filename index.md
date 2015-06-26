@@ -11,3 +11,7 @@ tagline: supporting tagline
 暑假期间的活动时间：每周六早9点半。
               地点：新闻学院    
 欢迎参加!
+
+Wechat QR Code:
+
+![QRcode](/assets/QRcode.jpg)
