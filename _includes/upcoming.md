@@ -1,22 +1,20 @@
-    第二次内测活动
-
-    时间：6月27日 周六 早9点30
-
-    地点：North Gate Hall (Graduate School of Journalism) 
-
-    形式与计划:
-
-    - 与第一次内测活动形式类似，由参与者介绍分享自己看过的或喜欢的书籍。
-    - 参加过第一次活动的成员，如果觉得近期没有新的书目可以介绍，可以选择带一首诗/文章片段朗读分享。
-    - 排出之后几期的主讲人与书目。
-
-    欢迎大家踊跃参加!
-
-    <br />
 
     第三次活动
 
-    时间： 7月4日 周六 早9点30
+    时间： 7月6日 周一 晚7点00
+
+    地点：North Gate Hall (Graduate School of Journalism) 
+
+    主讲人：陈圣婴
+
+    主讲书目：《哥伦比亚的倒影》 by 木心
+
+
+    <hr>
+
+    第四次活动
+
+    时间： 7月11日 周六 早9点30
 
     地点：North Gate Hall (Graduate School of Journalism) 
 
