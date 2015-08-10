@@ -10,7 +10,7 @@ tagline: supporting tagline
 
 暑假期间的活动时间：每周一晚7点半。
               地点：Soda Hall   
-欢迎参加!
+公开活动，欢迎所有感兴趣的朋友参加!
 
 Wechat QR Code
 (过期请发邮件至berkeley.reading@gmail.com):
